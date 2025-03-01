@@ -11,7 +11,7 @@ import SwiftUI
 struct ScrollableFeedApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ScrollableFeedView()
         }
     }
 }

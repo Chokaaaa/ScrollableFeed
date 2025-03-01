@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "u2985586242_Create_a_logo_for_a_travel_agency_suitable_for_th_fc84f1ac-af88-4579-ab06-3ce5ff14b052_0.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

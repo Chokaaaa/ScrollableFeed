@@ -9,8 +9,6 @@ import Foundation
 import SwiftUI
 
 struct FeedItem: Identifiable {
-    
     let id = UUID()
     let type: FeedItemType
-    
 }
